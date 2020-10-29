@@ -1,0 +1,10 @@
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\bin\Debug\numPuzzle.exe.config
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\bin\Debug\numPuzzle.exe
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\bin\Debug\numPuzzle.pdb
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\obj\Debug\numPuzzle.csprojAssemblyReference.cache
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\obj\Debug\numPuzzle.Properties.Resources.resources
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\obj\Debug\numPuzzle.csproj.GenerateResource.cache
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\obj\Debug\numPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\obj\Debug\numPuzzle.exe
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\obj\Debug\numPuzzle.pdb
+C:\Users\Gabriel Ichiro\source\repos\numPuzzle\numPuzzle\obj\Debug\numPuzzle.Puzzle.resources
